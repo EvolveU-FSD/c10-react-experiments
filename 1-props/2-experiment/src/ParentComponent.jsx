@@ -1,4 +1,3 @@
-import { useState } from "react";
 import ChildComponent from "./ChildComponent";
 
 function ParentComponent() {
